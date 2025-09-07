@@ -98,9 +98,6 @@ My curiosity is my compass. Here's where it's pointing right now:
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 30px; margin-bottom: 30px;">
     <img src="https://github-readme-stats.vercel.app/api?username=Nitya110905&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Nitya's GitHub Stats" style="height: 200px;" />
     <img src="https://nirzak-streak-stats.vercel.app/?user=Nitya110905&theme=tokyonight&hide_border=true" alt="Nitya's Contribution Streak" style="height: 200px;" />
-  </div>
-  
-  <div align = "center" style="display: flex; justify-content: center;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nitya110905&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Nitya's Top Languages" style="height: 200px;" />
   </div>
 </section>
